@@ -1,5 +1,5 @@
 #include <stdio.h>
-// 1km = 0.621371¸¶ÀÏ(mile)
+// 1km = 0.621371ë§ˆì¼(mile)
 #define MILE 0.621371
 
 int main()
@@ -7,7 +7,7 @@ int main()
 	int ten = 40; // 40km
 	int hundred = 400; // 400km
 
-	// km ÀÇ °ªÀ» mile ·Î º¯È¯ÇÏ¿© Ãâ·Â
+	// km ì˜ ê°’ì„ mile ë¡œ ë³€í™˜í•˜ì—¬ ì¶œë ¥
 	printf("%dkm to mile : %f\n", ten, ten * MILE);
 	printf("%dkm to mile : %f\n", hundred, hundred * MILE);
 
