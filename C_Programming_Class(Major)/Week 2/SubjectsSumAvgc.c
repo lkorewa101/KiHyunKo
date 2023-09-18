@@ -1,4 +1,4 @@
-/* ¼¼ °ú¸ñ ¼ºÀûÀÇ ÇÕ°è¿Í Æò±Õ */
+/* ì„¸ ê³¼ëª© ì„±ì ì˜ í•©ê³„ì™€ í‰ê·  */
 #include <stdio.h>
 int main() {
 	int kor, eng, math;
@@ -8,7 +8,7 @@ int main() {
 	math = 90;
 	sum = kor + eng + math;
 	avg = sum / 3;
-	printf("¼¼ °ú¸ñÀÇ ÇÕ°è´Â %dÀÌ´Ù.\n", sum);
-	printf("¼¼ °ú¸ñÀÇ Æò±ÕÀº %dÀÌ´Ù.\n", avg);
+	printf("ì„¸ ê³¼ëª©ì˜ í•©ê³„ëŠ” %dì´ë‹¤.\n", sum);
+	printf("ì„¸ ê³¼ëª©ì˜ í‰ê· ì€ %dì´ë‹¤.\n", avg);
 	return 0;
 }
