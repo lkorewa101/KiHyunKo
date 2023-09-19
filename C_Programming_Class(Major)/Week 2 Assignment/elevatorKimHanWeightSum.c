@@ -9,7 +9,7 @@ int main()
 	int totalWeight = kimWeight + hanWeight;
 
 	// 두 사람의 총 몸무게 값을 출력
-	printf("个公霸狼 钦 : %d", totalWeight);
+	printf("몸무게의 합 : %d", totalWeight);
 
 	return 0;
 }
