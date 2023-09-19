@@ -5,11 +5,11 @@ int main()
 	int kimWeight = 70; // 70kg
 	int hanWeight = 80; // 80kg
 
-	// ±è¾¾ÀÇ ¸ö¹«°Ô¿Í ÇÑ¾¾ÀÇ ¸ö¹«°Ô¸¦ ÇÕÇÑ °ª
+	// ê¹€ì”¨ì˜ ëª¸ë¬´ê²Œì™€ í•œì”¨ì˜ ëª¸ë¬´ê²Œë¥¼ í•©í•œ ê°’
 	int totalWeight = kimWeight + hanWeight;
 
-	// µÎ »ç¶÷ÀÇ ÃÑ ¸ö¹«°Ô °ªÀ» Ãâ·Â
-	printf("¸ö¹«°ÔÀÇ ÇÕ : %d", totalWeight);
+	// ë‘ ì‚¬ëŒì˜ ì´ ëª¸ë¬´ê²Œ ê°’ì„ ì¶œë ¥
+	printf("ä¸ªå…¬éœ¸ç‹¼ é’¦ : %d", totalWeight);
 
 	return 0;
 }
